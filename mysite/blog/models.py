@@ -1,3 +1,4 @@
+from dataclasses import fields
 from email.policy import default
 
 from django.db import models
@@ -13,6 +14,9 @@ class Post(models.Model):
 
       class Meta:
           ordering = ['-publish']
+          indexex = [
+              models.Index(fields=['-publish'])
+          ]
 
       def __str__(self):
           return self.title
