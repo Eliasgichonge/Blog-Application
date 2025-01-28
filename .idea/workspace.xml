@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Retrieving posts by similarity">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/blog/templatetags/blog_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating a simple template tag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/share.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/pagination.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/templatetags/blog_tags.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/mysite/settings.py" root0="SKIP_INSPECTION" />
@@ -89,22 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Creating a base template">
-      <option name="closed" value="true" />
-      <created>1738053742711</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1738053742711</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Creating the post list template">
-      <option name="closed" value="true" />
-      <created>1738053803699</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1738053803699</updated>
     </task>
     <task id="LOCAL-00027" summary="Adding the css and static folder">
       <option name="closed" value="true" />
@@ -482,11 +463,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738069775823</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Creating a simple template tag">
+      <option name="closed" value="true" />
+      <created>1738070754721</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1738070754721</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Creating a simple template tag">
+      <option name="closed" value="true" />
+      <created>1738070910744</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1738070910744</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the post list template" />
     <MESSAGE value="Adding the css and static folder" />
     <MESSAGE value="Creating the post detail template" />
     <MESSAGE value="Using canonical URLs for models" />
@@ -511,6 +507,7 @@
     <MESSAGE value="Adding comments to the post detail template" />
     <MESSAGE value="Adding the tagging functionality" />
     <MESSAGE value="Retrieving posts by similarity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Retrieving posts by similarity" />
+    <MESSAGE value="Creating a simple template tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a simple template tag" />
   </component>
 </project>
