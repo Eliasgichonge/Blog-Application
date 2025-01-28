@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding a sitemap to the site">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/feeds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating feeds for blog posts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/mysite/blog/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/feeds.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/forms.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/models.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/sitemaps.py" root0="SKIP_INSPECTION" />
@@ -91,22 +89,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Adding pagination">
-      <option name="closed" value="true" />
-      <created>1738064208600</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1738064208600</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Adding pagination to the post list view">
-      <option name="closed" value="true" />
-      <created>1738064333662</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1738064333662</updated>
     </task>
     <task id="LOCAL-00039" summary="Creating a pagination template">
       <option name="closed" value="true" />
@@ -484,11 +466,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738072722534</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Creating feeds for blog posts">
+      <option name="closed" value="true" />
+      <created>1738073290539</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1738073290539</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Creating feeds for blog posts">
+      <option name="closed" value="true" />
+      <created>1738073354931</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1738073354931</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modifying the URL patterns" />
     <MESSAGE value="Modifying the views" />
     <MESSAGE value="Modifying the canonical URL for posts" />
     <MESSAGE value="Adding pagination" />
@@ -513,6 +510,7 @@
     <MESSAGE value="Creating a template tag that returns a QuerySet" />
     <MESSAGE value="Creating a template filter to support Markdown syntax" />
     <MESSAGE value="Adding a sitemap to the site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding a sitemap to the site" />
+    <MESSAGE value="Creating feeds for blog posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating feeds for blog posts" />
   </component>
 </project>
