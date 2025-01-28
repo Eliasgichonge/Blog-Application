@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding a sitemap to the site">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/sitemaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/blog/feeds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,22 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Modifying the views">
-      <option name="closed" value="true" />
-      <created>1738063723828</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1738063723828</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Modifying the canonical URL for posts">
-      <option name="closed" value="true" />
-      <created>1738063832408</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1738063832408</updated>
     </task>
     <task id="LOCAL-00037" summary="Adding pagination">
       <option name="closed" value="true" />
@@ -483,7 +468,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738072252313</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Adding a sitemap to the site">
+      <option name="closed" value="true" />
+      <created>1738072460178</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1738072460178</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Adding a sitemap to the site">
+      <option name="closed" value="true" />
+      <created>1738072722533</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1738072722534</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
