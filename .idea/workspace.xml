@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Rendering forms in templates">
-      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating forms from models">
+      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,38 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Defining a default sort order">
-      <option name="closed" value="true" />
-      <created>1738044723862</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1738044723862</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Adding a database index">
-      <option name="closed" value="true" />
-      <created>1738044815369</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1738044815369</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Activating the application">
-      <option name="closed" value="true" />
-      <created>1738044971634</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1738044971634</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Adding a status field">
-      <option name="closed" value="true" />
-      <created>1738045186219</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738045186219</updated>
     </task>
     <task id="LOCAL-00010" summary="Adding a status field">
       <option name="closed" value="true" />
@@ -480,12 +447,42 @@
       <option name="project" value="LOCAL" />
       <updated>1738066281263</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Creating a model for comments">
+      <option name="closed" value="true" />
+      <created>1738066645862</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1738066645862</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Creating a model for comments">
+      <option name="closed" value="true" />
+      <created>1738066704506</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1738066704506</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Creating a model for comments">
+      <option name="closed" value="true" />
+      <created>1738066857635</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1738066857635</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Creating forms from models">
+      <option name="closed" value="true" />
+      <created>1738066943406</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1738066943406</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding models to the administration site" />
-    <MESSAGE value="Customizing how models are displayed" />
     <MESSAGE value="Creating model managers" />
     <MESSAGE value="Creating list and detail views" />
     <MESSAGE value="Using the get_object_or_404 shortcut" />
@@ -509,6 +506,8 @@
     <MESSAGE value="Handling forms in views" />
     <MESSAGE value="Sending emails with Django" />
     <MESSAGE value="Rendering forms in templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rendering forms in templates" />
+    <MESSAGE value="Creating a model for comments" />
+    <MESSAGE value="Creating forms from models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating forms from models" />
   </component>
 </project>
