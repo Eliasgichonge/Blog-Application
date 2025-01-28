@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding the tagging functionality">
-      <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding the tagging functionality" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,22 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Using the get_object_or_404 shortcut">
-      <option name="closed" value="true" />
-      <created>1738051987607</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1738051987607</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Adding URL patterns for your views">
-      <option name="closed" value="true" />
-      <created>1738052108191</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1738052108191</updated>
     </task>
     <task id="LOCAL-00022" summary="Adding URL patterns for your views">
       <option name="closed" value="true" />
@@ -480,7 +462,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738068787169</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Adding the tagging functionality">
+      <option name="closed" value="true" />
+      <created>1738068945409</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1738068945409</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Adding the tagging functionality">
+      <option name="closed" value="true" />
+      <created>1738069204784</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1738069204784</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
