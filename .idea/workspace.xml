@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Using a class-based view to list posts">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/forms.py" afterDir="false" />
-    </list>
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Sending emails with Django" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -446,13 +444,34 @@
       <option name="project" value="LOCAL" />
       <updated>1738065304543</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Creating forms with Django">
+      <option name="closed" value="true" />
+      <created>1738065493154</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1738065493154</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Handling forms in views">
+      <option name="closed" value="true" />
+      <created>1738065679306</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1738065679306</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Sending emails with Django">
+      <option name="closed" value="true" />
+      <created>1738065789611</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1738065789611</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding a status field" />
-    <MESSAGE value="Adding a many-to-one relationship" />
-    <MESSAGE value="Creating and applying migrations" />
     <MESSAGE value="Creating a superuser" />
     <MESSAGE value="Adding models to the administration site" />
     <MESSAGE value="Customizing how models are displayed" />
@@ -475,6 +494,9 @@
     <MESSAGE value="Creating a pagination template" />
     <MESSAGE value="Handling pagination errors" />
     <MESSAGE value="Using a class-based view to list posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using a class-based view to list posts" />
+    <MESSAGE value="Creating forms with Django" />
+    <MESSAGE value="Handling forms in views" />
+    <MESSAGE value="Sending emails with Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sending emails with Django" />
   </component>
 </project>
