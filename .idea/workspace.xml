@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating templates for your views">
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating the post list template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +272,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738052471059</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Creating a base template">
+      <option name="closed" value="true" />
+      <created>1738053742711</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738053742711</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Creating the post list template">
+      <option name="closed" value="true" />
+      <created>1738053803699</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738053803699</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,6 +311,8 @@
     <MESSAGE value="Using the get_object_or_404 shortcut" />
     <MESSAGE value="Adding URL patterns for your views" />
     <MESSAGE value="Creating templates for your views" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating templates for your views" />
+    <MESSAGE value="Creating a base template" />
+    <MESSAGE value="Creating the post list template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the post list template" />
   </component>
 </project>
