@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding comments to the post detail template" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding the tagging functionality">
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,22 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Customizing how models are displayed">
-      <option name="closed" value="true" />
-      <created>1738051409094</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1738051409094</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Creating model managers">
-      <option name="closed" value="true" />
-      <created>1738051610763</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1738051610763</updated>
     </task>
     <task id="LOCAL-00019" summary="Creating list and detail views">
       <option name="closed" value="true" />
@@ -478,11 +464,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738067997986</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Adding the tagging functionality">
+      <option name="closed" value="true" />
+      <created>1738068300197</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1738068300197</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Adding the tagging functionality">
+      <option name="closed" value="true" />
+      <created>1738068403578</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1738068403578</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating templates for your views" />
     <MESSAGE value="Creating a base template" />
     <MESSAGE value="Creating the post list template" />
     <MESSAGE value="Adding the css and static folder" />
@@ -507,6 +508,7 @@
     <MESSAGE value="Creating templates for the comment form" />
     <MESSAGE value="Adding comments to the post detail view" />
     <MESSAGE value="Adding comments to the post detail template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding comments to the post detail template" />
+    <MESSAGE value="Adding the tagging functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the tagging functionality" />
   </component>
 </project>
