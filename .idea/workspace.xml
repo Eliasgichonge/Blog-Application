@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding the css and static folder">
-      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Using canonical URLs for models">
+      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +300,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738062981807</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Creating the post detail template">
+      <option name="closed" value="true" />
+      <created>1738063073410</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063073410</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Using canonical URLs for models">
+      <option name="closed" value="true" />
+      <created>1738063316690</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063316690</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Using canonical URLs for models">
+      <option name="closed" value="true" />
+      <created>1738063407381</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063407381</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +350,8 @@
     <MESSAGE value="Creating a base template" />
     <MESSAGE value="Creating the post list template" />
     <MESSAGE value="Adding the css and static folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the css and static folder" />
+    <MESSAGE value="Creating the post detail template" />
+    <MESSAGE value="Using canonical URLs for models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using canonical URLs for models" />
   </component>
 </project>
