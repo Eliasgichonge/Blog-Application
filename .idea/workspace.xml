@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding a status field" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating and applying migrations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738045324739</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adding a many-to-one relationship">
+      <option name="closed" value="true" />
+      <created>1738045458960</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738045458960</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Creating and applying migrations">
+      <option name="closed" value="true" />
+      <created>1738045641999</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738045641999</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +170,8 @@
     <MESSAGE value="Adding a database index" />
     <MESSAGE value="Activating the application" />
     <MESSAGE value="Adding a status field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding a status field" />
+    <MESSAGE value="Adding a many-to-one relationship" />
+    <MESSAGE value="Creating and applying migrations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating and applying migrations" />
   </component>
 </project>
