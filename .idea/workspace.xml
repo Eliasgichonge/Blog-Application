@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Customizing how models are displayed" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating model managers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +28,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/mysite/blog/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/views.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -190,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738046613234</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Customizing how models are displayed">
+      <option name="closed" value="true" />
+      <created>1738051409094</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738051409094</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Creating model managers">
+      <option name="closed" value="true" />
+      <created>1738051610763</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738051610763</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +225,7 @@
     <MESSAGE value="Creating a superuser" />
     <MESSAGE value="Adding models to the administration site" />
     <MESSAGE value="Customizing how models are displayed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customizing how models are displayed" />
+    <MESSAGE value="Creating model managers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating model managers" />
   </component>
 </project>
