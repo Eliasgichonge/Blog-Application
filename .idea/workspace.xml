@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Sending emails with Django">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/share.html" afterDir="false" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Rendering forms in templates">
+      <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/share.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/pagination.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/views.py" root0="SKIP_INSPECTION" />
@@ -85,14 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Adding datetime fields">
-      <option name="closed" value="true" />
-      <created>1738044632010</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1738044632010</updated>
     </task>
     <task id="LOCAL-00006" summary="Defining a default sort order">
       <option name="closed" value="true" />
@@ -478,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738066117429</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Rendering forms in templates">
+      <option name="closed" value="true" />
+      <created>1738066281263</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1738066281263</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating a superuser" />
     <MESSAGE value="Adding models to the administration site" />
     <MESSAGE value="Customizing how models are displayed" />
     <MESSAGE value="Creating model managers" />
@@ -507,6 +508,7 @@
     <MESSAGE value="Creating forms with Django" />
     <MESSAGE value="Handling forms in views" />
     <MESSAGE value="Sending emails with Django" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sending emails with Django" />
+    <MESSAGE value="Rendering forms in templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rendering forms in templates" />
   </component>
 </project>
