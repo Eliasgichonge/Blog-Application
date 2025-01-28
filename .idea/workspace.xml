@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating the Post model" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding a database index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +93,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738044336310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding datetime fields">
+      <option name="closed" value="true" />
+      <created>1738044632010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738044632010</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Defining a default sort order">
+      <option name="closed" value="true" />
+      <created>1738044723862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738044723862</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding a database index">
+      <option name="closed" value="true" />
+      <created>1738044815369</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738044815369</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -101,6 +125,9 @@
     <MESSAGE value="Creating your first project" />
     <MESSAGE value="Applying initial database migrations" />
     <MESSAGE value="Creating the Post model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the Post model" />
+    <MESSAGE value="Adding datetime fields" />
+    <MESSAGE value="Defining a default sort order" />
+    <MESSAGE value="Adding a database index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a database index" />
   </component>
 </project>
