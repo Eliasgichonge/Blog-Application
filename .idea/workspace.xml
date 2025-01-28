@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Using canonical URLs for models">
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Modifying the views">
       <change beforePath="$PROJECT_DIR$/mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -324,12 +324,50 @@
       <option name="project" value="LOCAL" />
       <updated>1738063407381</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Creating SEO-friendly URLs for posts">
+      <option name="closed" value="true" />
+      <created>1738063494493</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063494493</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Creating SEO-friendly URLs for posts">
+      <option name="closed" value="true" />
+      <created>1738063553025</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063553025</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Creating SEO-friendly URLs for posts">
+      <option name="closed" value="true" />
+      <created>1738063566703</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063566703</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Modifying the URL patterns">
+      <option name="closed" value="true" />
+      <created>1738063638988</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063638988</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Modifying the views">
+      <option name="closed" value="true" />
+      <created>1738063723828</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738063723828</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Installing Django with pip" />
-    <MESSAGE value="Creating your first project" />
     <MESSAGE value="Applying initial database migrations" />
     <MESSAGE value="Creating the Post model" />
     <MESSAGE value="Adding datetime fields" />
@@ -352,6 +390,9 @@
     <MESSAGE value="Adding the css and static folder" />
     <MESSAGE value="Creating the post detail template" />
     <MESSAGE value="Using canonical URLs for models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using canonical URLs for models" />
+    <MESSAGE value="Creating SEO-friendly URLs for posts" />
+    <MESSAGE value="Modifying the URL patterns" />
+    <MESSAGE value="Modifying the views" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying the views" />
   </component>
 </project>
