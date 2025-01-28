@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating a template filter to support Markdown syntax" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding a sitemap to the site">
+      <change afterPath="$PROJECT_DIR$/mysite/blog/sitemaps.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/mysite/blog/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/forms.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/sitemaps.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/static/css/blog.css" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" root0="SKIP_INSPECTION" />
@@ -87,22 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738043504449</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Creating SEO-friendly URLs for posts">
-      <option name="closed" value="true" />
-      <created>1738063566703</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1738063566703</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Modifying the URL patterns">
-      <option name="closed" value="true" />
-      <created>1738063638988</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1738063638988</updated>
     </task>
     <task id="LOCAL-00035" summary="Modifying the views">
       <option name="closed" value="true" />
@@ -480,11 +467,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738071896720</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Creating a template filter to support Markdown syntax">
+      <option name="closed" value="true" />
+      <created>1738072124118</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1738072124119</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Adding a sitemap to the site">
+      <option name="closed" value="true" />
+      <created>1738072252313</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1738072252313</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating SEO-friendly URLs for posts" />
     <MESSAGE value="Modifying the URL patterns" />
     <MESSAGE value="Modifying the views" />
     <MESSAGE value="Modifying the canonical URL for posts" />
@@ -509,6 +511,7 @@
     <MESSAGE value="Creating an inclusion template tag" />
     <MESSAGE value="Creating a template tag that returns a QuerySet" />
     <MESSAGE value="Creating a template filter to support Markdown syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a template filter to support Markdown syntax" />
+    <MESSAGE value="Adding a sitemap to the site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a sitemap to the site" />
   </component>
 </project>
