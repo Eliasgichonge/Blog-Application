@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Modifying the canonical URL for posts" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding pagination to the post list view">
+      <change afterPath="$PROJECT_DIR$/mysite/blog/templates/pagination.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -370,12 +372,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738063832408</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Adding pagination">
+      <option name="closed" value="true" />
+      <created>1738064208600</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738064208600</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Adding pagination to the post list view">
+      <option name="closed" value="true" />
+      <created>1738064333662</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1738064333662</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the Post model" />
-    <MESSAGE value="Adding datetime fields" />
     <MESSAGE value="Defining a default sort order" />
     <MESSAGE value="Adding a database index" />
     <MESSAGE value="Activating the application" />
@@ -399,6 +415,8 @@
     <MESSAGE value="Modifying the URL patterns" />
     <MESSAGE value="Modifying the views" />
     <MESSAGE value="Modifying the canonical URL for posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifying the canonical URL for posts" />
+    <MESSAGE value="Adding pagination" />
+    <MESSAGE value="Adding pagination to the post list view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding pagination to the post list view" />
   </component>
 </project>
