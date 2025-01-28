@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Adding pagination to the post list view">
-      <change afterPath="$PROJECT_DIR$/mysite/blog/templates/pagination.html" afterDir="false" />
+    <list default="true" id="f2e3a13b-1e2c-4180-aeea-f117bd7877be" name="Changes" comment="Creating a pagination template">
+      <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/base.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mysite/blog/templates/pagination.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/urls.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/blog/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mysite/mysite/settings.py" root0="SKIP_INSPECTION" />
@@ -388,11 +389,26 @@
       <option name="project" value="LOCAL" />
       <updated>1738064333662</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Creating a pagination template">
+      <option name="closed" value="true" />
+      <created>1738064655471</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1738064655471</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Creating a pagination template">
+      <option name="closed" value="true" />
+      <created>1738064709990</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1738064709990</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Defining a default sort order" />
     <MESSAGE value="Adding a database index" />
     <MESSAGE value="Activating the application" />
     <MESSAGE value="Adding a status field" />
@@ -417,6 +433,7 @@
     <MESSAGE value="Modifying the canonical URL for posts" />
     <MESSAGE value="Adding pagination" />
     <MESSAGE value="Adding pagination to the post list view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding pagination to the post list view" />
+    <MESSAGE value="Creating a pagination template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a pagination template" />
   </component>
 </project>
